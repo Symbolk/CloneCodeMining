@@ -1,0 +1,5 @@
+#! /bin/bash 
+JAVA=/usr/jdk/jdk1.8.0_74/bin/java
+JFLEX_HOME=/home/symbolk/Preprocessing/jflex-1.6.1
+
+$JAVA -Xmx128m -jar $JFLEX_HOME/lib/jflex-1.6.1.jar $@

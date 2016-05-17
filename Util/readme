@@ -1,0 +1,14 @@
+writeDat.cpp, translate the plain text file format
+to the binary filemat. The plain text file format is lines of sequences
+
+e.g.
+a b c
+a d e
+f g h i j f
+
+readDat.cpp/readDat2.cpp display the binary file format
+
+These two files are contributed by Ronghua Zhang
+
+xifeng
+01/10/2005

@@ -1,0 +1,10 @@
+CLOSED
+0.005 seconds (
+Total running time)
+
+Total # of TreeNode: 0
+
+Total of 0 large items.
+# of projected datasets: 0
+Maximum memory usage: 0.000000MB
+0.009 seconds (Total running time after sort, and output.)
